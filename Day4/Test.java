@@ -7,6 +7,7 @@ class Name {// 이름 클래스
  
     public void setName(String name) {// ex)김선영을 받는 다. 
         this.name = name;//this.name= 받은  김선영을 넣어 주겠다.
+        
     }
     public String getName() {
         return name;//얻어낸 이름을 돌려 받겠다.
