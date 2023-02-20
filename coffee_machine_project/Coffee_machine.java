@@ -90,7 +90,7 @@ public class Coffee_machine {
 					System.exit(0);
 				default :
 					System.out.println("없는 메뉴입니다.");
-					System.out.println("다른 메뉴를 선택해주세요.");
+					System.out.println("다른 메뉴를 선택해주세요 .");
 					}
 
 			}
