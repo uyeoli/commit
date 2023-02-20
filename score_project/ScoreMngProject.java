@@ -55,7 +55,7 @@ class Score{
 					"수학성적 : " + score.getMath() + "총점 : " + score.sum() + "평균 :" + score.avg();
 		}
 	}
-public class Score_stur {
+public class ScoreMngProject {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -82,7 +82,6 @@ public class Score_stur {
 			break;
 		}
 
-		
 	}
 
 }

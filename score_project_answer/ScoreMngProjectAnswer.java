@@ -1,4 +1,4 @@
-package Day4;
+package score_project_answer;
 
 import java.util.Scanner;
 
@@ -71,7 +71,7 @@ class Student {//Student 생성자 를 찯기위해 Student클래스로 옴
  }
 
 
-public class Test {
+public class ScoreMngProjectAnswer {
     public static void main(String[] args) {
  
         Scanner sc = new Scanner(System.in);//컴퓨터에게  입력 해달라 
