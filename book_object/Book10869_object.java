@@ -1,4 +1,4 @@
-package book;
+package book_object;
 import java.util.Scanner;
 class operands {
 	Scanner sc = new Scanner(System.in);
@@ -26,7 +26,7 @@ class operands {
 		g = a % b;
 	}
 }
-public class Book10869_객체 {
+public class Book10869_object {
 
 	public static void main(String[] args) {
 		operands op = new operands();

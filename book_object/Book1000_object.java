@@ -1,4 +1,4 @@
-package book;
+package book_object;
 import java.util.Scanner;
 class plus {
 	Scanner sc = new Scanner(System.in);
@@ -10,7 +10,7 @@ class plus {
 		c = a + b;
 	}
 }
-public class Book1000_객체 {
+public class Book1000_object {
 
 	public static void main(String[] args) {
 		plus ab = new plus();
